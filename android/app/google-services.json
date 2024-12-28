@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "501829412093",
+    "project_id": "skill-exchange-app-76274",
+    "storage_bucket": "skill-exchange-app-76274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501829412093:android:1f1aa141fb6546b9834a94",
+        "android_client_info": {
+          "package_name": "com.fivestar.employer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501829412093-lo18pmqq73p6t65pd7t1b31ond7mlg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_D1jry0AJQz7PLcjbARAVSR_7PlCV6z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501829412093-lo18pmqq73p6t65pd7t1b31ond7mlg94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501829412093:android:b61409ee8bc82c0b834a94",
+        "android_client_info": {
+          "package_name": "com.fivestar.freelancers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501829412093-lo18pmqq73p6t65pd7t1b31ond7mlg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_D1jry0AJQz7PLcjbARAVSR_7PlCV6z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501829412093-lo18pmqq73p6t65pd7t1b31ond7mlg94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
